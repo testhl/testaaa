@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test组" parallel="tests" thread-count="1">
+	<!-- <listeners> <listener class-name="testngT.RetryListener" /> <listener 
+		class-name="testngT.TestResultListener" /> </listeners> -->
+	<!-- 从class方法中选择标记组为B的来执行 -->
+	<test name="执行Class组">
+		<groups>
+			<run>
+				<exclude name="B" />
+			</run>
+		</groups>
+		<classes>
+			<class name="test.test.TestClass" />
+			<class name="test.test.TestMethods" />
+			<class name="test.test.TestTTTT" />
+		</classes>
+	</test>
+</suite>

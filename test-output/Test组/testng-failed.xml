@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" guice-stage="DEVELOPMENT" name="Failed suite [Test组]" parallel="tests">
+  <test name="执行Class组">
+    <groups>
+      <run>
+        <exclude name="B"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="test.test.TestClass"/>
+      <class name="test.test.TestMethods"/>
+      <class name="test.test.TestTTTT"/>
+    </classes>
+  </test> <!-- 执行Class组 -->
+</suite> <!-- Failed suite [Test组] -->

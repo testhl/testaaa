@@ -1,0 +1,609 @@
+2020-11-17 at 09:28:47 CST ERROR com.test.aaa.LoggerCon - erro
+2020-11-17 at 09:49:56 CST INFO  com.test.aaa.LoggerCon - erro
+2020-11-17 at 10:05:58 CST INFO  com.test.aaa.LoggerCon - erro
+2020-11-17 at 10:06:30 CST INFO  com.test.aaa.LoggerCon - erro
+2020-11-17 at 10:06:30 CST INFO  com.test.aaa.LoggerCon - erro
+2020-11-17 at 10:06:30 CST INFO  com.test.aaa.LoggerCon - erro
+2020-11-17 at 10:06:30 CST INFO  com.test.aaa.LoggerCon - erro
+2020-11-17 at 10:06:30 CST INFO  com.test.aaa.LoggerCon - erro
+2020-11-18 at 15:03:55 CST INFO  testngT.TestngRetry - retrycount=2
+2020-11-18 at 15:03:55 CST INFO  testngT.TestngRetry - sourceCodeDir=src
+2020-11-18 at 15:03:55 CST INFO  testngT.TestngRetry - sourceCodeEncoding=UTF-8
+2020-11-18 at 15:03:55 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 15:03:55 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 15:04:18 CST INFO  testngT.TestngRetry - Retry for [test] on class [test.test.TestF] Retry 1 times
+2020-11-18 at 15:04:19 CST INFO  testngT.TestResultListener - test Skipped
+2020-11-18 at 15:04:19 CST INFO  testngT.TestResultListener - test Skipped
+2020-11-18 at 15:04:19 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 15:04:19 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 15:04:42 CST INFO  testngT.TestngRetry - Retry for [test] on class [test.test.TestF] Retry 2 times
+2020-11-18 at 15:04:43 CST INFO  testngT.TestResultListener - test Skipped
+2020-11-18 at 15:04:43 CST INFO  testngT.TestResultListener - test Skipped
+2020-11-18 at 15:04:43 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 15:04:43 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 15:05:05 CST INFO  testngT.TestResultListener - test Failure
+2020-11-18 at 15:05:06 CST INFO  testngT.TestResultListener - test Failure
+2020-11-18 at 15:05:06 CST INFO  testngT.TestResultListener - skipTest = test
+2020-11-18 at 15:05:06 CST INFO  testngT.TestResultListener - skipTest = test
+2020-11-18 at 15:05:06 CST INFO  testngT.TestResultListener - failedTest = test
+2020-11-18 at 15:05:06 CST INFO  testngT.TestResultListener - Remove repeat Fail Test: test
+2020-11-18 at 15:05:06 CST INFO  testngT.TestResultListener - skipTest = test
+2020-11-18 at 15:05:06 CST INFO  testngT.TestResultListener - skipTest = test
+2020-11-18 at 15:16:04 CST INFO  testngT.TestngRetry - retrycount=1
+2020-11-18 at 15:16:04 CST INFO  testngT.TestngRetry - sourceCodeDir=src
+2020-11-18 at 15:16:04 CST INFO  testngT.TestngRetry - sourceCodeEncoding=UTF-8
+2020-11-18 at 15:16:04 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 15:16:05 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 15:16:27 CST INFO  testngT.TestngRetry - Retry for [test] on class [test.test.TestF] Retry 1 times
+2020-11-18 at 15:16:28 CST INFO  testngT.TestResultListener - test Skipped
+2020-11-18 at 15:16:28 CST INFO  testngT.TestResultListener - test Skipped
+2020-11-18 at 15:16:28 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 15:16:28 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 15:16:51 CST INFO  testngT.TestResultListener - test Failure
+2020-11-18 at 15:16:51 CST INFO  testngT.TestResultListener - test Failure
+2020-11-18 at 15:16:51 CST INFO  testngT.TestResultListener - skipTest = test
+2020-11-18 at 15:16:51 CST INFO  testngT.TestResultListener - failedTest = test
+2020-11-18 at 15:16:51 CST INFO  testngT.TestResultListener - Remove repeat Fail Test: test
+2020-11-18 at 15:16:51 CST INFO  testngT.TestResultListener - skipTest = test
+2020-11-18 at 15:19:03 CST INFO  testngT.TestngRetry - retrycount=1
+2020-11-18 at 15:19:03 CST INFO  testngT.TestngRetry - sourceCodeDir=src
+2020-11-18 at 15:19:03 CST INFO  testngT.TestngRetry - sourceCodeEncoding=UTF-8
+2020-11-18 at 15:19:03 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 15:19:03 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 15:19:25 CST INFO  testngT.TestngRetry - Retry for [test] on class [test.test.TestF] Retry 1 times
+2020-11-18 at 15:19:26 CST INFO  testngT.TestResultListener - test Skipped
+2020-11-18 at 15:19:26 CST INFO  testngT.TestResultListener - test Skipped
+2020-11-18 at 15:19:26 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 15:19:26 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 15:19:49 CST INFO  testngT.TestResultListener - test Failure
+2020-11-18 at 15:19:49 CST INFO  testngT.TestResultListener - test Failure
+2020-11-18 at 15:19:49 CST INFO  testngT.TestResultListener - skipTest = test
+2020-11-18 at 15:19:49 CST INFO  testngT.TestResultListener - failedTest = test
+2020-11-18 at 15:19:49 CST INFO  testngT.TestResultListener - Remove repeat Fail Test: test
+2020-11-18 at 15:19:49 CST INFO  testngT.TestResultListener - skipTest = test
+2020-11-18 at 15:29:20 CST INFO  testngT.TestngRetry - retrycount=1
+2020-11-18 at 15:29:20 CST INFO  testngT.TestngRetry - sourceCodeDir=src
+2020-11-18 at 15:29:20 CST INFO  testngT.TestngRetry - sourceCodeEncoding=UTF-8
+2020-11-18 at 15:29:20 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 15:29:20 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 15:29:42 CST INFO  testngT.TestngRetry - Retry for [test] on class [test.test.TestF] Retry 1 times
+2020-11-18 at 15:29:43 CST INFO  testngT.TestResultListener - test Skipped
+2020-11-18 at 15:29:43 CST INFO  testngT.TestResultListener - test Skipped
+2020-11-18 at 15:29:43 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 15:29:43 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 15:30:05 CST INFO  testngT.TestResultListener - test Failure
+2020-11-18 at 15:30:06 CST INFO  testngT.TestResultListener - test Failure
+2020-11-18 at 15:30:06 CST INFO  testngT.TestResultListener - skipTest = test
+2020-11-18 at 15:30:06 CST INFO  testngT.TestResultListener - failedTest = test
+2020-11-18 at 15:30:06 CST INFO  testngT.TestResultListener - Remove repeat Fail Test: test
+2020-11-18 at 15:30:06 CST INFO  testngT.TestResultListener - skipTest = test
+2020-11-18 at 15:49:08 CST INFO  testngT.TestngRetry - retrycount=1
+2020-11-18 at 15:49:08 CST INFO  testngT.TestngRetry - sourceCodeDir=src
+2020-11-18 at 15:49:08 CST INFO  testngT.TestngRetry - sourceCodeEncoding=UTF-8
+2020-11-18 at 15:49:08 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 15:49:08 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 15:49:31 CST INFO  testngT.TestngRetry - Retry for [test] on class [test.test.TestF] Retry 1 times
+2020-11-18 at 15:49:31 CST INFO  testngT.TestResultListener - test Skipped
+2020-11-18 at 15:49:31 CST INFO  testngT.TestResultListener - test Skipped
+2020-11-18 at 15:49:31 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 15:49:31 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 15:49:53 CST INFO  testngT.TestResultListener - test Failure
+2020-11-18 at 15:49:53 CST INFO  testngT.TestResultListener - test Failure
+2020-11-18 at 15:49:53 CST INFO  testngT.TestResultListener - skipTest = test
+2020-11-18 at 15:49:53 CST INFO  testngT.TestResultListener - failedTest = test
+2020-11-18 at 15:49:53 CST INFO  testngT.TestResultListener - Remove repeat Fail Test: test
+2020-11-18 at 15:49:53 CST INFO  testngT.TestResultListener - skipTest = test
+2020-11-18 at 16:02:33 CST INFO  testngT.TestngRetry - retrycount=1
+2020-11-18 at 16:02:33 CST INFO  testngT.TestngRetry - sourceCodeDir=src
+2020-11-18 at 16:02:33 CST INFO  testngT.TestngRetry - sourceCodeEncoding=UTF-8
+2020-11-18 at 16:02:33 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 16:02:33 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 16:02:56 CST INFO  com.test.aaa.WaitElementsUtils - 元素By.xpath: //*[text()='hao123123']查找超时
+2020-11-18 at 16:02:56 CST INFO  testngT.TestngRetry - Retry for [test] on class [test.test.TestF] Retry 1 times
+2020-11-18 at 16:02:56 CST INFO  testngT.TestResultListener - test Skipped
+2020-11-18 at 16:02:56 CST INFO  testngT.TestResultListener - test Skipped
+2020-11-18 at 16:02:56 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 16:02:56 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 16:03:17 CST INFO  com.test.aaa.WaitElementsUtils - 元素By.xpath: //*[text()='hao123123']查找超时
+2020-11-18 at 16:03:18 CST INFO  testngT.TestResultListener - test Failure
+2020-11-18 at 16:03:18 CST INFO  testngT.TestResultListener - test Failure
+2020-11-18 at 16:03:18 CST INFO  testngT.TestResultListener - skipTest = test
+2020-11-18 at 16:03:18 CST INFO  testngT.TestResultListener - failedTest = test
+2020-11-18 at 16:03:18 CST INFO  testngT.TestResultListener - Remove repeat Fail Test: test
+2020-11-18 at 16:03:18 CST INFO  testngT.TestResultListener - skipTest = test
+2020-11-18 at 16:04:56 CST INFO  testngT.TestngRetry - retrycount=1
+2020-11-18 at 16:04:56 CST INFO  testngT.TestngRetry - sourceCodeDir=src
+2020-11-18 at 16:04:56 CST INFO  testngT.TestngRetry - sourceCodeEncoding=UTF-8
+2020-11-18 at 16:04:57 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 16:04:57 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 16:05:19 CST ERROR com.test.aaa.WaitElementsUtils - 元素By.xpath: //*[text()='hao123123']查找超时
+2020-11-18 at 16:05:19 CST INFO  testngT.TestngRetry - Retry for [test] on class [test.test.TestF] Retry 1 times
+2020-11-18 at 16:05:19 CST INFO  testngT.TestResultListener - test Skipped
+2020-11-18 at 16:05:19 CST INFO  testngT.TestResultListener - test Skipped
+2020-11-18 at 16:05:19 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 16:05:19 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 16:05:42 CST ERROR com.test.aaa.WaitElementsUtils - 元素By.xpath: //*[text()='hao123123']查找超时
+2020-11-18 at 16:05:42 CST INFO  testngT.TestResultListener - test Failure
+2020-11-18 at 16:05:42 CST INFO  testngT.TestResultListener - test Failure
+2020-11-18 at 16:05:42 CST INFO  testngT.TestResultListener - skipTest = test
+2020-11-18 at 16:05:42 CST INFO  testngT.TestResultListener - failedTest = test
+2020-11-18 at 16:05:42 CST INFO  testngT.TestResultListener - Remove repeat Fail Test: test
+2020-11-18 at 16:05:42 CST INFO  testngT.TestResultListener - skipTest = test
+2020-11-18 at 16:14:57 CST INFO  testngT.TestngRetry - retrycount=1
+2020-11-18 at 16:14:57 CST INFO  testngT.TestngRetry - sourceCodeDir=src
+2020-11-18 at 16:14:57 CST INFO  testngT.TestngRetry - sourceCodeEncoding=UTF-8
+2020-11-18 at 16:14:57 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 16:14:57 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 16:15:20 CST ERROR com.test.common.WaitElementsUtils - 元素By.xpath: //*[text()='hao123123']查找超时
+2020-11-18 at 16:15:20 CST INFO  testngT.TestngRetry - Retry for [test] on class [test.test.TestF] Retry 1 times
+2020-11-18 at 16:15:20 CST INFO  testngT.TestResultListener - test Skipped
+2020-11-18 at 16:15:20 CST INFO  testngT.TestResultListener - test Skipped
+2020-11-18 at 16:15:20 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 16:15:20 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 16:15:42 CST ERROR com.test.common.WaitElementsUtils - 元素By.xpath: //*[text()='hao123123']查找超时
+2020-11-18 at 16:15:42 CST INFO  testngT.TestResultListener - test Failure
+2020-11-18 at 16:15:43 CST INFO  testngT.TestResultListener - test Failure
+2020-11-18 at 16:15:43 CST INFO  testngT.TestResultListener - skipTest = test
+2020-11-18 at 16:15:43 CST INFO  testngT.TestResultListener - failedTest = test
+2020-11-18 at 16:15:43 CST INFO  testngT.TestResultListener - Remove repeat Fail Test: test
+2020-11-18 at 16:15:43 CST INFO  testngT.TestResultListener - skipTest = test
+2020-11-18 at 17:07:38 CST INFO  testngT.TestngRetry - retrycount=1
+2020-11-18 at 17:07:38 CST INFO  testngT.TestngRetry - sourceCodeDir=src
+2020-11-18 at 17:07:38 CST INFO  testngT.TestngRetry - sourceCodeEncoding=UTF-8
+2020-11-18 at 17:07:38 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 17:07:38 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 17:08:00 CST ERROR com.test.common.WaitElementsUtils - 元素By.xpath: //*[text()='hao123123']查找超时
+2020-11-18 at 17:08:00 CST INFO  testngT.TestngRetry - Retry for [test] on class [test.test.TestF] Retry 1 times
+2020-11-18 at 17:08:00 CST INFO  testngT.TestResultListener - test Skipped
+2020-11-18 at 17:08:00 CST INFO  testngT.TestResultListener - test Skipped
+2020-11-18 at 17:08:00 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 17:08:00 CST INFO  testngT.TestResultListener - test Start
+2020-11-18 at 17:08:22 CST ERROR com.test.common.WaitElementsUtils - 元素By.xpath: //*[text()='hao123123']查找超时
+2020-11-18 at 17:08:23 CST INFO  testngT.TestResultListener - test Failure
+2020-11-18 at 17:08:23 CST INFO  testngT.TestResultListener - test Failure
+2020-11-18 at 17:08:23 CST INFO  testngT.TestResultListener - skipTest = test
+2020-11-18 at 17:08:23 CST INFO  testngT.TestResultListener - failedTest = test
+2020-11-18 at 17:08:23 CST INFO  testngT.TestResultListener - Remove repeat Fail Test: test
+2020-11-18 at 17:08:23 CST INFO  testngT.TestResultListener - skipTest = test
+2020-11-20 at 14:45:43 CST INFO  com.test.common.WindowHandle - https://www.hao123.com/
+2020-11-20 at 14:46:41 CST INFO  com.test.common.WindowHandle - https://www.hao123.com/
+2020-11-20 at 14:47:34 CST INFO  com.test.common.WindowHandle - https://www.hao123.com/
+2020-11-20 at 14:47:45 CST ERROR com.test.common.WaitElementsUtils - 元素By.xpath: //*[@id='s-top-left']//*[text()='贴吧']查找超时
+2020-11-20 at 14:48:20 CST INFO  com.test.common.WindowHandle - https://www.baidu.com/
+2020-11-20 at 14:48:25 CST INFO  com.test.common.WindowHandle - https://tieba.baidu.com/index.html
+2020-11-20 at 14:50:13 CST INFO  com.test.common.WindowHandle - 百度一下，你就知道
+2020-11-20 at 14:50:17 CST INFO  com.test.common.WindowHandle - 百度贴吧——全球最大的中文社区
+2020-11-20 at 16:34:57 CST INFO  com.test.common.WindowHandle - hao123_上网从这里开始
+2020-11-23 at 10:13:46 CST INFO  com.test.common.LoggerCon - erro
+2020-11-23 at 10:13:46 CST ERROR com.test.common.LoggerCon - erro
+2020-11-23 at 10:13:46 CST INFO  com.test.common.LoggerCon - erro
+2020-11-23 at 10:13:46 CST INFO  com.test.common.LoggerCon - erro
+2020-11-23 at 10:13:46 CST INFO  com.test.common.LoggerCon - erro
+2020-11-23 at 10:17:52 CST INFO  com.test.common.LoggerCon - erro
+2020-11-23 at 10:17:52 CST ERROR com.test.common.LoggerCon - erro
+2020-11-23 at 10:17:52 CST INFO  com.test.common.LoggerCon - erro
+2020-11-23 at 10:17:52 CST INFO  com.test.common.LoggerCon - erro
+2020-11-23 at 10:17:52 CST INFO  com.test.common.LoggerCon - erro
+2020-11-23 at 10:20:47 CST INFO  testngT.TestngRetry - retrycount=1
+2020-11-23 at 10:20:47 CST INFO  testngT.TestngRetry - sourceCodeDir=src
+2020-11-23 at 10:20:47 CST INFO  testngT.TestngRetry - sourceCodeEncoding=UTF-8
+2020-11-23 at 10:20:47 CST INFO  testngT.TestResultListener - test Start
+2020-11-23 at 10:20:47 CST INFO  testngT.TestResultListener - test Start
+2020-11-23 at 10:21:10 CST ERROR com.test.common.WaitElementsUtils - 元素By.xpath: //*[text()='hao123123']查找超时
+2020-11-23 at 10:21:10 CST INFO  testngT.TestngRetry - Retry for [test] on class [test.test.TestF] Retry 1 times
+2020-11-23 at 10:21:10 CST INFO  testngT.TestResultListener - test Skipped
+2020-11-23 at 10:21:10 CST INFO  testngT.TestResultListener - test Skipped
+2020-11-23 at 10:21:10 CST INFO  testngT.TestResultListener - test Start
+2020-11-23 at 10:21:10 CST INFO  testngT.TestResultListener - test Start
+2020-11-23 at 10:21:32 CST ERROR com.test.common.WaitElementsUtils - 元素By.xpath: //*[text()='hao123123']查找超时
+2020-11-23 at 10:21:33 CST INFO  testngT.TestResultListener - test Failure
+2020-11-23 at 10:21:33 CST INFO  testngT.TestResultListener - test Failure
+2020-11-23 at 10:21:33 CST INFO  testngT.TestResultListener - skipTest = test
+2020-11-23 at 10:21:33 CST INFO  testngT.TestResultListener - failedTest = test
+2020-11-23 at 10:21:33 CST INFO  testngT.TestResultListener - Remove repeat Fail Test: test
+2020-11-23 at 10:21:33 CST INFO  testngT.TestResultListener - skipTest = test
+2020-11-23 at 11:17:01 CST INFO  test.test.TestTTTT - 运行TestA
+2020-11-23 at 11:17:01 CST INFO  test.test.TestTTTT - 运行TestB
+2020-11-23 at 11:33:46 CST INFO  testngT.TestngRetry - retrycount=1
+2020-11-23 at 11:33:46 CST INFO  testngT.TestngRetry - sourceCodeDir=src
+2020-11-23 at 11:33:46 CST INFO  testngT.TestngRetry - sourceCodeEncoding=UTF-8
+2020-11-23 at 11:33:46 CST INFO  testngT.TestResultListener - testA Start
+2020-11-23 at 11:33:46 CST INFO  testngT.TestResultListener - testA Start
+2020-11-23 at 11:33:46 CST INFO  test.test.TestTTTT - 运行TestA
+2020-11-23 at 11:33:46 CST INFO  testngT.TestResultListener - testA Success
+2020-11-23 at 11:33:46 CST INFO  testngT.TestResultListener - testA Success
+2020-11-23 at 11:33:46 CST INFO  testngT.TestResultListener - PassedTests = testA
+2020-11-23 at 11:33:46 CST INFO  testngT.TestResultListener - PassedTests = testA
+2020-11-23 at 13:40:22 CST INFO  testngT.TestngRetry - retrycount=1
+2020-11-23 at 13:40:22 CST INFO  testngT.TestngRetry - sourceCodeDir=src
+2020-11-23 at 13:40:22 CST INFO  testngT.TestngRetry - sourceCodeEncoding=UTF-8
+2020-11-23 at 13:40:22 CST INFO  testngT.TestResultListener - testA Start
+2020-11-23 at 13:40:22 CST INFO  testngT.TestResultListener - testA Start
+2020-11-23 at 13:40:22 CST INFO  test.test.TestTTTT - 运行TestA
+2020-11-23 at 13:40:22 CST INFO  testngT.TestResultListener - testA Success
+2020-11-23 at 13:40:23 CST INFO  testngT.TestResultListener - testA Success
+2020-11-23 at 13:40:23 CST INFO  testngT.TestResultListener - PassedTests = testA
+2020-11-23 at 13:40:23 CST INFO  testngT.TestResultListener - PassedTests = testA
+2020-11-23 at 13:41:09 CST INFO  testngT.TestngRetry - retrycount=1
+2020-11-23 at 13:41:09 CST INFO  testngT.TestngRetry - sourceCodeDir=src
+2020-11-23 at 13:41:09 CST INFO  testngT.TestngRetry - sourceCodeEncoding=UTF-8
+2020-11-23 at 13:41:09 CST INFO  testngT.TestResultListener - testA Start
+2020-11-23 at 13:41:09 CST INFO  testngT.TestResultListener - testA Start
+2020-11-23 at 13:41:09 CST INFO  test.test.TestTTTT - 运行TestA
+2020-11-23 at 13:41:09 CST INFO  testngT.TestResultListener - testA Success
+2020-11-23 at 13:41:09 CST INFO  testngT.TestResultListener - testA Success
+2020-11-23 at 13:41:09 CST INFO  testngT.TestResultListener - testB Start
+2020-11-23 at 13:41:09 CST INFO  testngT.TestResultListener - testB Start
+2020-11-23 at 13:41:09 CST INFO  test.test.TestTTTT - 运行TestB
+2020-11-23 at 13:41:09 CST INFO  testngT.TestResultListener - testB Success
+2020-11-23 at 13:41:09 CST INFO  testngT.TestResultListener - testB Success
+2020-11-23 at 13:41:09 CST INFO  testngT.TestResultListener - PassedTests = testA
+2020-11-23 at 13:41:09 CST INFO  testngT.TestResultListener - PassedTests = testB
+2020-11-23 at 13:41:09 CST INFO  testngT.TestResultListener - PassedTests = testA
+2020-11-23 at 13:41:09 CST INFO  testngT.TestResultListener - PassedTests = testB
+2020-11-23 at 13:59:48 CST INFO  testngT.TestngRetry - retrycount=1
+2020-11-23 at 13:59:48 CST INFO  testngT.TestngRetry - sourceCodeDir=src
+2020-11-23 at 13:59:48 CST INFO  testngT.TestngRetry - sourceCodeEncoding=UTF-8
+2020-11-23 at 13:59:48 CST INFO  test.test.TestMethods - 运行BeforeMethod
+2020-11-23 at 13:59:49 CST INFO  testngT.TestResultListener - testtes Start
+2020-11-23 at 13:59:49 CST INFO  testngT.TestResultListener - testtes Start
+2020-11-23 at 13:59:49 CST INFO  test.test.TestMethods - 运行testtes
+2020-11-23 at 13:59:49 CST INFO  testngT.TestResultListener - testtes Success
+2020-11-23 at 13:59:49 CST INFO  testngT.TestResultListener - testtes Success
+2020-11-23 at 13:59:49 CST INFO  test.test.TestMethods - 运行AfterMethod
+2020-11-23 at 13:59:49 CST INFO  testngT.TestResultListener - PassedTests = testtes
+2020-11-23 at 13:59:49 CST INFO  testngT.TestResultListener - PassedTests = testtes
+2020-11-23 at 13:59:49 CST INFO  testngT.TestResultListener - testA Start
+2020-11-23 at 13:59:49 CST INFO  testngT.TestResultListener - testA Start
+2020-11-23 at 13:59:49 CST INFO  test.test.TestTTTT - 运行TestA
+2020-11-23 at 13:59:49 CST INFO  testngT.TestResultListener - testA Success
+2020-11-23 at 13:59:49 CST INFO  testngT.TestResultListener - testA Success
+2020-11-23 at 13:59:49 CST INFO  testngT.TestResultListener - testB Start
+2020-11-23 at 13:59:49 CST INFO  testngT.TestResultListener - testB Start
+2020-11-23 at 13:59:49 CST INFO  test.test.TestTTTT - 运行TestB
+2020-11-23 at 13:59:49 CST INFO  testngT.TestResultListener - testB Success
+2020-11-23 at 13:59:49 CST INFO  testngT.TestResultListener - testB Success
+2020-11-23 at 13:59:49 CST INFO  testngT.TestResultListener - PassedTests = testB
+2020-11-23 at 13:59:49 CST INFO  testngT.TestResultListener - PassedTests = testA
+2020-11-23 at 13:59:49 CST INFO  testngT.TestResultListener - PassedTests = testB
+2020-11-23 at 13:59:49 CST INFO  testngT.TestResultListener - PassedTests = testA
+2020-11-23 at 14:00:15 CST INFO  test.test.TestMethods - 运行BeforeMethod
+2020-11-23 at 14:00:15 CST INFO  test.test.TestMethods - 运行testtes
+2020-11-23 at 14:00:15 CST INFO  test.test.TestMethods - 运行AfterMethod
+2020-11-23 at 14:00:15 CST INFO  test.test.TestTTTT - 运行TestA
+2020-11-23 at 14:00:15 CST INFO  test.test.TestTTTT - 运行TestB
+2020-11-23 at 14:02:04 CST INFO  test.test.TestMethods - 运行BeforeMethod
+2020-11-23 at 14:02:04 CST INFO  test.test.TestMethods - 运行testtes1
+2020-11-23 at 14:02:04 CST INFO  test.test.TestMethods - 运行AfterMethod
+2020-11-23 at 14:02:04 CST INFO  test.test.TestMethods - 运行BeforeMethod
+2020-11-23 at 14:02:04 CST INFO  test.test.TestMethods - 运行testtes2
+2020-11-23 at 14:02:04 CST INFO  test.test.TestMethods - 运行AfterMethod
+2020-11-23 at 14:02:04 CST INFO  test.test.TestTTTT - 运行TestA
+2020-11-23 at 14:02:04 CST INFO  test.test.TestTTTT - 运行TestB
+2020-11-23 at 15:31:06 CST INFO  test.test.TestTTTT - 运行TestA
+2020-11-23 at 15:31:06 CST INFO  test.test.TestTTTT - 运行TestB
+2020-11-23 at 15:31:06 CST INFO  test.test.TestMethods - 运行BeforeMethod
+2020-11-23 at 15:31:06 CST INFO  test.test.TestMethods - 运行testtes1
+2020-11-23 at 15:31:06 CST INFO  test.test.TestMethods - 运行AfterMethod
+2020-11-23 at 15:31:06 CST INFO  test.test.TestMethods - 运行BeforeMethod
+2020-11-23 at 15:31:06 CST INFO  test.test.TestMethods - 运行testtes2
+2020-11-23 at 15:31:06 CST INFO  test.test.TestMethods - 运行AfterMethod
+2020-11-23 at 15:31:06 CST INFO  test.test.TestTTTT - 运行TestA
+2020-11-23 at 15:31:06 CST INFO  test.test.TestTTTT - 运行TestB
+2020-11-23 at 15:34:44 CST INFO  test.test.TestTTTT - 运行TestA
+2020-11-23 at 15:34:45 CST INFO  test.test.TestTTTT - 运行TestB
+2020-11-23 at 15:34:45 CST INFO  test.test.TestMethods - 运行BeforeMethod
+2020-11-23 at 15:34:45 CST INFO  test.test.TestMethods - 运行testtes1
+2020-11-23 at 15:34:45 CST INFO  test.test.TestMethods - 运行AfterMethod
+2020-11-23 at 15:34:45 CST INFO  test.test.TestMethods - 运行BeforeMethod
+2020-11-23 at 15:34:45 CST INFO  test.test.TestMethods - 运行testtes2
+2020-11-23 at 15:34:45 CST INFO  test.test.TestMethods - 运行AfterMethod
+2020-11-23 at 15:34:45 CST INFO  test.test.TestTTTT - 运行TestA
+2020-11-23 at 15:34:45 CST INFO  test.test.TestTTTT - 运行TestB
+2020-11-23 at 15:59:41 CST INFO  test.test.TestClass - 运行BeforeClass
+2020-11-23 at 15:59:41 CST INFO  test.test.TestClass - 运行testClasstes1
+2020-11-23 at 15:59:41 CST INFO  test.test.TestClass - 运行testClasstes2
+2020-11-23 at 15:59:41 CST INFO  test.test.TestClass - 运行AfterClass
+2020-11-23 at 15:59:41 CST INFO  test.test.TestTTTT - 运行TestA
+2020-11-23 at 15:59:41 CST INFO  test.test.TestTTTT - 运行TestB
+2020-11-23 at 15:59:41 CST INFO  test.test.TestMethods - 运行BeforeMethod
+2020-11-23 at 15:59:41 CST INFO  test.test.TestMethods - 运行testMethodstes1
+2020-11-23 at 15:59:41 CST INFO  test.test.TestMethods - 运行AfterMethod
+2020-11-23 at 15:59:41 CST INFO  test.test.TestMethods - 运行BeforeMethod
+2020-11-23 at 15:59:41 CST INFO  test.test.TestMethods - 运行testMethodstes2
+2020-11-23 at 15:59:41 CST INFO  test.test.TestMethods - 运行AfterMethod
+2020-11-23 at 15:59:41 CST INFO  test.test.TestTTTT - 运行TestA
+2020-11-23 at 15:59:41 CST INFO  test.test.TestTTTT - 运行TestB
+2020-11-23 at 16:00:11 CST INFO  test.test.TestClass - 运行BeforeClass
+2020-11-23 at 16:00:11 CST INFO  test.test.TestClass - 运行testClasstes1
+2020-11-23 at 16:00:11 CST INFO  test.test.TestClass - 运行testClasstes2
+2020-11-23 at 16:00:11 CST INFO  test.test.TestClass - 运行AfterClass
+2020-11-23 at 16:00:11 CST INFO  test.test.TestMethods - 运行BeforeMethod
+2020-11-23 at 16:00:11 CST INFO  test.test.TestMethods - 运行testMethodstes1
+2020-11-23 at 16:00:11 CST INFO  test.test.TestMethods - 运行AfterMethod
+2020-11-23 at 16:00:11 CST INFO  test.test.TestMethods - 运行BeforeMethod
+2020-11-23 at 16:00:11 CST INFO  test.test.TestMethods - 运行testMethodstes2
+2020-11-23 at 16:00:11 CST INFO  test.test.TestMethods - 运行AfterMethod
+2020-11-23 at 16:00:11 CST INFO  test.test.TestTTTT - 运行TestA
+2020-11-23 at 16:00:11 CST INFO  test.test.TestTTTT - 运行TestB
+2020-11-23 at 16:01:37 CST INFO  test.test.TestSuite - 运行套件BeforeSuite
+2020-11-23 at 16:01:37 CST INFO  test.test.TestTest - 运行BeforeTest
+2020-11-23 at 16:01:37 CST INFO  test.test.TestClass - 运行BeforeClass
+2020-11-23 at 16:01:37 CST INFO  test.test.TestClass - 运行testClasstes1
+2020-11-23 at 16:01:38 CST INFO  test.test.TestClass - 运行testClasstes2
+2020-11-23 at 16:01:38 CST INFO  test.test.TestClass - 运行AfterClass
+2020-11-23 at 16:01:38 CST INFO  test.test.TestMethods - 运行BeforeMethod
+2020-11-23 at 16:01:38 CST INFO  test.test.TestMethods - 运行testMethodstes1
+2020-11-23 at 16:01:38 CST INFO  test.test.TestMethods - 运行AfterMethod
+2020-11-23 at 16:01:38 CST INFO  test.test.TestMethods - 运行BeforeMethod
+2020-11-23 at 16:01:38 CST INFO  test.test.TestMethods - 运行testMethodstes2
+2020-11-23 at 16:01:38 CST INFO  test.test.TestMethods - 运行AfterMethod
+2020-11-23 at 16:01:38 CST INFO  test.test.TestTTTT - 运行TestA
+2020-11-23 at 16:01:38 CST INFO  test.test.TestTTTT - 运行TestB
+2020-11-23 at 16:01:38 CST INFO  test.test.TestTest - 运行AfterTest
+2020-11-23 at 16:01:38 CST INFO  test.test.TestSuite - 运行套件AfterSuite
+2020-11-23 at 16:43:11 CST INFO  test.test.TestClass - 运行BeforeClass
+2020-11-23 at 16:43:12 CST INFO  test.test.TestClass - 运行testClasstes1
+2020-11-23 at 16:43:12 CST INFO  test.test.TestClass - 运行testClasstes2
+2020-11-23 at 16:43:12 CST INFO  test.test.TestClass - 运行AfterClass
+2020-11-23 at 16:43:12 CST INFO  test.test.TestTTTT - 运行TestA
+2020-11-23 at 16:44:16 CST INFO  test.test.TestTTTT - 运行TestB
+2020-11-23 at 16:57:29 CST INFO  test.test.TestSuite - 运行套件BeforeSuite
+2020-11-23 at 16:57:29 CST INFO  test.test.TestTest - 运行BeforeTest
+2020-11-23 at 16:57:29 CST INFO  test.test.TestClass - 运行BeforeClass
+2020-11-23 at 16:57:29 CST INFO  test.test.TestClass - 运行testClasstes1
+2020-11-23 at 16:57:29 CST INFO  test.test.TestClass - 运行testClasstes2
+2020-11-23 at 16:57:29 CST INFO  test.test.TestClass - 运行AfterClass
+2020-11-23 at 16:57:29 CST INFO  test.test.TestMethods - 运行BeforeMethod
+2020-11-23 at 16:57:29 CST INFO  test.test.TestMethods - 运行testMethodstes1
+2020-11-23 at 16:57:29 CST INFO  test.test.TestMethods - 运行AfterMethod
+2020-11-23 at 16:57:29 CST INFO  test.test.TestMethods - 运行BeforeMethod
+2020-11-23 at 16:57:29 CST INFO  test.test.TestMethods - 运行testMethodstes2
+2020-11-23 at 16:57:29 CST INFO  test.test.TestMethods - 运行AfterMethod
+2020-11-23 at 16:57:29 CST INFO  test.test.TestTTTT - 运行TestA
+2020-11-23 at 16:57:29 CST INFO  test.test.TestTTTT - 运行TestB
+2020-11-23 at 16:57:29 CST INFO  test.test.TestTest - 运行AfterTest
+2020-11-23 at 16:57:29 CST INFO  test.test.TestTest - 运行BeforeTest
+2020-11-23 at 16:57:29 CST INFO  test.test.TestClass - 运行BeforeClass
+2020-11-23 at 16:57:29 CST INFO  test.test.TestClass - 运行testClasstes1
+2020-11-23 at 16:57:29 CST INFO  test.test.TestClass - 运行testClasstes2
+2020-11-23 at 16:57:29 CST INFO  test.test.TestClass - 运行AfterClass
+2020-11-23 at 16:57:29 CST INFO  test.test.TestTTTT - 运行TestA
+2020-11-23 at 16:57:29 CST INFO  test.test.TestTTTT - 运行TestB
+2020-11-23 at 16:57:29 CST INFO  test.test.TestTest - 运行AfterTest
+2020-11-23 at 16:57:29 CST INFO  test.test.TestSuite - 运行套件AfterSuite
+2020-11-23 at 16:59:38 CST INFO  test.test.TestSuite - 运行套件BeforeSuite
+2020-11-23 at 16:59:38 CST INFO  test.test.TestTest - 运行BeforeTest
+2020-11-23 at 16:59:38 CST INFO  test.test.TestClass - 运行BeforeClass
+2020-11-23 at 16:59:38 CST INFO  test.test.TestClass - 运行testClasstes1
+2020-11-23 at 16:59:38 CST INFO  test.test.TestClass - 运行testClasstes2
+2020-11-23 at 16:59:38 CST INFO  test.test.TestClass - 运行AfterClass
+2020-11-23 at 16:59:38 CST INFO  test.test.TestMethods - 运行BeforeMethod
+2020-11-23 at 16:59:38 CST INFO  test.test.TestMethods - 运行testMethodstes1
+2020-11-23 at 16:59:38 CST INFO  test.test.TestMethods - 运行AfterMethod
+2020-11-23 at 16:59:38 CST INFO  test.test.TestMethods - 运行BeforeMethod
+2020-11-23 at 16:59:38 CST INFO  test.test.TestMethods - 运行testMethodstes2
+2020-11-23 at 16:59:38 CST INFO  test.test.TestMethods - 运行AfterMethod
+2020-11-23 at 16:59:38 CST INFO  test.test.TestTTTT - 运行TestA
+2020-11-23 at 16:59:38 CST INFO  test.test.TestTTTT - 运行TestB
+2020-11-23 at 16:59:38 CST INFO  test.test.TestTest - 运行AfterTest
+2020-11-23 at 16:59:38 CST INFO  test.test.TestTest - 运行BeforeTest
+2020-11-23 at 16:59:38 CST INFO  test.test.TestClass - 运行BeforeClass
+2020-11-23 at 16:59:38 CST INFO  test.test.TestClass - 运行testClasstes1
+2020-11-23 at 16:59:38 CST INFO  test.test.TestClass - 运行testClasstes2
+2020-11-23 at 16:59:38 CST INFO  test.test.TestClass - 运行AfterClass
+2020-11-23 at 16:59:38 CST INFO  test.test.TestTTTT - 运行TestA
+2020-11-23 at 16:59:38 CST INFO  test.test.TestTTTT - 运行TestB
+2020-11-23 at 16:59:38 CST INFO  test.test.TestTest - 运行AfterTest
+2020-11-23 at 16:59:38 CST INFO  test.test.TestSuite - 运行套件AfterSuite
+2020-11-24 at 09:38:45 CST INFO  test.test.TestSuite - 运行套件BeforeSuite
+2020-11-24 at 09:38:45 CST INFO  test.test.TestTest - 运行BeforeTest
+2020-11-24 at 09:38:45 CST INFO  test.test.TestClass - 运行BeforeClass
+2020-11-24 at 09:38:45 CST INFO  test.test.TestClass - 运行testClasstes1
+2020-11-24 at 09:38:45 CST INFO  test.test.TestClass - 运行testClasstes2
+2020-11-24 at 09:38:45 CST INFO  test.test.TestClass - 运行AfterClass
+2020-11-24 at 09:38:45 CST INFO  test.test.TestMethods - 运行BeforeMethod
+2020-11-24 at 09:38:45 CST INFO  test.test.TestMethods - 运行testMethodstes1
+2020-11-24 at 09:38:45 CST INFO  test.test.TestMethods - 运行AfterMethod
+2020-11-24 at 09:38:45 CST INFO  test.test.TestMethods - 运行BeforeMethod
+2020-11-24 at 09:38:45 CST INFO  test.test.TestMethods - 运行testMethodstes2
+2020-11-24 at 09:38:45 CST INFO  test.test.TestMethods - 运行AfterMethod
+2020-11-24 at 09:38:45 CST INFO  test.test.TestTTTT - 运行TestA
+2020-11-24 at 09:38:45 CST INFO  test.test.TestTTTT - 运行TestB
+2020-11-24 at 09:38:45 CST INFO  test.test.TestTest - 运行AfterTest
+2020-11-24 at 09:38:45 CST INFO  test.test.TestTest - 运行BeforeTest
+2020-11-24 at 09:38:45 CST INFO  test.test.TestClass - 运行BeforeClass
+2020-11-24 at 09:38:45 CST INFO  test.test.TestClass - 运行testClasstes1
+2020-11-24 at 09:38:45 CST INFO  test.test.TestClass - 运行testClasstes2
+2020-11-24 at 09:38:45 CST INFO  test.test.TestClass - 运行AfterClass
+2020-11-24 at 09:38:45 CST INFO  test.test.TestTTTT - 运行TestA
+2020-11-24 at 09:38:45 CST INFO  test.test.TestTTTT - 运行TestB
+2020-11-24 at 09:38:45 CST INFO  test.test.TestTest - 运行AfterTest
+2020-11-24 at 09:38:45 CST INFO  test.test.TestSuite - 运行套件AfterSuite
+2020-11-24 at 09:39:21 CST INFO  test.test.TestTTTT - 运行TestB
+2020-11-24 at 09:39:37 CST INFO  test.test.TestTTTT - 运行TestB
+2020-11-24 at 09:40:31 CST INFO  test.test.TestSuite - 运行套件BeforeSuite
+2020-11-24 at 09:40:31 CST INFO  test.test.TestTest - 运行BeforeTest
+2020-11-24 at 09:40:31 CST INFO  test.test.TestClass - 运行BeforeClass
+2020-11-24 at 09:40:32 CST INFO  test.test.TestClass - 运行testClasstes1
+2020-11-24 at 09:40:32 CST INFO  test.test.TestClass - 运行testClasstes2
+2020-11-24 at 09:40:32 CST INFO  test.test.TestClass - 运行AfterClass
+2020-11-24 at 09:40:32 CST INFO  test.test.TestMethods - 运行BeforeMethod
+2020-11-24 at 09:40:32 CST INFO  test.test.TestMethods - 运行testMethodstes1
+2020-11-24 at 09:40:32 CST INFO  test.test.TestMethods - 运行AfterMethod
+2020-11-24 at 09:40:32 CST INFO  test.test.TestMethods - 运行BeforeMethod
+2020-11-24 at 09:40:32 CST INFO  test.test.TestMethods - 运行testMethodstes2
+2020-11-24 at 09:40:32 CST INFO  test.test.TestMethods - 运行AfterMethod
+2020-11-24 at 09:40:32 CST INFO  test.test.TestTTTT - 运行TestA
+2020-11-24 at 09:40:32 CST INFO  test.test.TestTTTT - 运行TestB
+2020-11-24 at 09:40:32 CST INFO  test.test.TestTest - 运行AfterTest
+2020-11-24 at 09:40:32 CST INFO  test.test.TestTest - 运行BeforeTest
+2020-11-24 at 09:40:32 CST INFO  test.test.TestClass - 运行BeforeClass
+2020-11-24 at 09:40:32 CST INFO  test.test.TestClass - 运行testClasstes1
+2020-11-24 at 09:40:32 CST INFO  test.test.TestClass - 运行testClasstes2
+2020-11-24 at 09:40:32 CST INFO  test.test.TestClass - 运行AfterClass
+2020-11-24 at 09:40:32 CST INFO  test.test.TestTTTT - 运行TestA
+2020-11-24 at 09:40:32 CST INFO  test.test.TestTTTT - 运行TestB
+2020-11-24 at 09:40:32 CST INFO  test.test.TestTest - 运行AfterTest
+2020-11-24 at 09:40:32 CST INFO  test.test.TestSuite - 运行套件AfterSuite
+2020-11-24 at 09:42:06 CST INFO  testngT.TestngRetry - retrycount=1
+2020-11-24 at 09:42:06 CST INFO  testngT.TestngRetry - sourceCodeDir=src
+2020-11-24 at 09:42:06 CST INFO  testngT.TestngRetry - sourceCodeEncoding=UTF-8
+2020-11-24 at 09:42:06 CST INFO  testngT.TestResultListener - testB Start
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - testB Start
+2020-11-24 at 09:42:07 CST INFO  test.test.TestTTTT - 运行TestB
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - testB Success
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - testB Success
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - PassedTests = testB
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - PassedTests = testB
+2020-11-24 at 09:42:07 CST INFO  test.test.TestSuite - 运行套件BeforeSuite
+2020-11-24 at 09:42:07 CST INFO  test.test.TestTest - 运行BeforeTest
+2020-11-24 at 09:42:07 CST INFO  test.test.TestClass - 运行BeforeClass
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener -  Start
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener -  Start
+2020-11-24 at 09:42:07 CST INFO  test.test.TestClass - 运行testClasstes1
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener -  Success
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener -  Success
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener -  Start
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener -  Start
+2020-11-24 at 09:42:07 CST INFO  test.test.TestClass - 运行testClasstes2
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener -  Success
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener -  Success
+2020-11-24 at 09:42:07 CST INFO  test.test.TestClass - 运行AfterClass
+2020-11-24 at 09:42:07 CST INFO  test.test.TestMethods - 运行BeforeMethod
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - testtes1 Start
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - testtes1 Start
+2020-11-24 at 09:42:07 CST INFO  test.test.TestMethods - 运行testMethodstes1
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - testtes1 Success
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - testtes1 Success
+2020-11-24 at 09:42:07 CST INFO  test.test.TestMethods - 运行AfterMethod
+2020-11-24 at 09:42:07 CST INFO  test.test.TestMethods - 运行BeforeMethod
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - testtes2 Start
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - testtes2 Start
+2020-11-24 at 09:42:07 CST INFO  test.test.TestMethods - 运行testMethodstes2
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - testtes2 Success
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - testtes2 Success
+2020-11-24 at 09:42:07 CST INFO  test.test.TestMethods - 运行AfterMethod
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - testA Start
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - testA Start
+2020-11-24 at 09:42:07 CST INFO  test.test.TestTTTT - 运行TestA
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - testA Success
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - testA Success
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - testB Start
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - testB Start
+2020-11-24 at 09:42:07 CST INFO  test.test.TestTTTT - 运行TestB
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - testB Success
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - testB Success
+2020-11-24 at 09:42:07 CST INFO  test.test.TestTest - 运行AfterTest
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - PassedTests = testtes2
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - PassedTests = testtes1
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - PassedTests = testB
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - PassedTests = testA
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - PassedTests = 
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - PassedTests = 
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - PassedTests = testtes2
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - PassedTests = testtes1
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - PassedTests = testB
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - PassedTests = testA
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - PassedTests = 
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - PassedTests = 
+2020-11-24 at 09:42:07 CST INFO  test.test.TestTest - 运行BeforeTest
+2020-11-24 at 09:42:07 CST INFO  test.test.TestClass - 运行BeforeClass
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener -  Start
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener -  Start
+2020-11-24 at 09:42:07 CST INFO  test.test.TestClass - 运行testClasstes1
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener -  Success
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener -  Success
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener -  Start
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener -  Start
+2020-11-24 at 09:42:07 CST INFO  test.test.TestClass - 运行testClasstes2
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener -  Success
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener -  Success
+2020-11-24 at 09:42:07 CST INFO  test.test.TestClass - 运行AfterClass
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - testA Start
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - testA Start
+2020-11-24 at 09:42:07 CST INFO  test.test.TestTTTT - 运行TestA
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - testA Success
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - testA Success
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - testB Start
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - testB Start
+2020-11-24 at 09:42:07 CST INFO  test.test.TestTTTT - 运行TestB
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - testB Success
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - testB Success
+2020-11-24 at 09:42:07 CST INFO  test.test.TestTest - 运行AfterTest
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - PassedTests = 
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - PassedTests = testB
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - PassedTests = 
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - PassedTests = testA
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - PassedTests = 
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - PassedTests = testB
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - PassedTests = 
+2020-11-24 at 09:42:07 CST INFO  testngT.TestResultListener - PassedTests = testA
+2020-11-24 at 09:42:07 CST INFO  test.test.TestSuite - 运行套件AfterSuite
+2020-11-24 at 09:43:04 CST INFO  test.test.TestTTTT - 运行TestB
+2020-11-24 at 09:43:04 CST INFO  test.test.TestSuite - 运行套件BeforeSuite
+2020-11-24 at 09:43:04 CST INFO  test.test.TestTest - 运行BeforeTest
+2020-11-24 at 09:43:04 CST INFO  test.test.TestClass - 运行BeforeClass
+2020-11-24 at 09:43:04 CST INFO  test.test.TestClass - 运行testClasstes1
+2020-11-24 at 09:43:04 CST INFO  test.test.TestClass - 运行testClasstes2
+2020-11-24 at 09:43:04 CST INFO  test.test.TestClass - 运行AfterClass
+2020-11-24 at 09:43:04 CST INFO  test.test.TestMethods - 运行BeforeMethod
+2020-11-24 at 09:43:04 CST INFO  test.test.TestMethods - 运行testMethodstes1
+2020-11-24 at 09:43:04 CST INFO  test.test.TestMethods - 运行AfterMethod
+2020-11-24 at 09:43:04 CST INFO  test.test.TestMethods - 运行BeforeMethod
+2020-11-24 at 09:43:04 CST INFO  test.test.TestMethods - 运行testMethodstes2
+2020-11-24 at 09:43:04 CST INFO  test.test.TestMethods - 运行AfterMethod
+2020-11-24 at 09:43:04 CST INFO  test.test.TestTTTT - 运行TestA
+2020-11-24 at 09:43:04 CST INFO  test.test.TestTTTT - 运行TestB
+2020-11-24 at 09:43:04 CST INFO  test.test.TestTest - 运行AfterTest
+2020-11-24 at 09:43:04 CST INFO  test.test.TestTest - 运行BeforeTest
+2020-11-24 at 09:43:04 CST INFO  test.test.TestClass - 运行BeforeClass
+2020-11-24 at 09:43:04 CST INFO  test.test.TestClass - 运行testClasstes1
+2020-11-24 at 09:43:04 CST INFO  test.test.TestClass - 运行testClasstes2
+2020-11-24 at 09:43:04 CST INFO  test.test.TestClass - 运行AfterClass
+2020-11-24 at 09:43:04 CST INFO  test.test.TestTTTT - 运行TestA
+2020-11-24 at 09:43:04 CST INFO  test.test.TestTTTT - 运行TestB
+2020-11-24 at 09:43:04 CST INFO  test.test.TestTest - 运行AfterTest
+2020-11-24 at 09:43:04 CST INFO  test.test.TestSuite - 运行套件AfterSuite
+2020-11-24 at 09:54:13 CST INFO  test.test.TestClass - 运行BeforeClass
+2020-11-24 at 09:54:13 CST INFO  test.test.TestClass - 运行testClasstes1
+2020-11-24 at 09:54:14 CST INFO  test.test.TestClass - 运行testClasstes2
+2020-11-24 at 09:54:14 CST INFO  test.test.TestClass - 运行AfterClass
+2020-11-24 at 09:54:14 CST INFO  test.test.TestMethods - 运行BeforeMethod
+2020-11-24 at 09:54:14 CST INFO  test.test.TestMethods - 运行testMethodstes1
+2020-11-24 at 09:54:14 CST INFO  test.test.TestMethods - 运行AfterMethod
+2020-11-24 at 09:54:14 CST INFO  test.test.TestMethods - 运行BeforeMethod
+2020-11-24 at 09:54:14 CST INFO  test.test.TestMethods - 运行testMethodstes2
+2020-11-24 at 09:54:14 CST INFO  test.test.TestMethods - 运行AfterMethod
+2020-11-24 at 09:54:14 CST INFO  test.test.TestTTTT - 运行TestA
+2020-11-24 at 09:56:50 CST INFO  test.test.TestSuite - 运行套件BeforeSuite
+2020-11-24 at 09:56:50 CST INFO  test.test.TestTest - 运行BeforeTest
+2020-11-24 at 09:56:50 CST INFO  test.test.TestClass - 运行BeforeClass
+2020-11-24 at 09:56:50 CST INFO  test.test.TestClass - 运行testClasstes1
+2020-11-24 at 09:56:50 CST INFO  test.test.TestClass - 运行testClasstes2
+2020-11-24 at 09:56:50 CST INFO  test.test.TestClass - 运行AfterClass
+2020-11-24 at 09:56:50 CST INFO  test.test.TestMethods - 运行BeforeMethod
+2020-11-24 at 09:56:50 CST INFO  test.test.TestMethods - 运行testMethodstes1
+2020-11-24 at 09:56:50 CST INFO  test.test.TestMethods - 运行AfterMethod
+2020-11-24 at 09:56:50 CST INFO  test.test.TestMethods - 运行BeforeMethod
+2020-11-24 at 09:56:50 CST INFO  test.test.TestMethods - 运行testMethodstes2
+2020-11-24 at 09:56:50 CST INFO  test.test.TestMethods - 运行AfterMethod
+2020-11-24 at 09:56:50 CST INFO  test.test.TestTTTT - 运行TestA
+2020-11-24 at 09:56:50 CST INFO  test.test.TestTest - 运行AfterTest
+2020-11-24 at 09:56:50 CST INFO  test.test.TestTest - 运行BeforeTest
+2020-11-24 at 09:56:50 CST INFO  test.test.TestClass - 运行BeforeClass
+2020-11-24 at 09:56:50 CST INFO  test.test.TestClass - 运行testClasstes1
+2020-11-24 at 09:56:50 CST INFO  test.test.TestClass - 运行testClasstes2
+2020-11-24 at 09:56:50 CST INFO  test.test.TestClass - 运行AfterClass
+2020-11-24 at 09:56:50 CST INFO  test.test.TestTTTT - 运行TestA
+2020-11-24 at 09:56:50 CST INFO  test.test.TestTTTT - 运行TestB
+2020-11-24 at 09:56:50 CST INFO  test.test.TestTest - 运行AfterTest
+2020-11-24 at 09:56:50 CST INFO  test.test.TestSuite - 运行套件AfterSuite
+2020-11-24 at 10:39:28 CST INFO  test.test.TestFZ - 负载测试
+2020-11-24 at 10:39:28 CST INFO  test.test.TestFZ - 负载测试
+2020-11-24 at 10:39:28 CST INFO  test.test.TestFZ - 负载测试
+2020-11-24 at 10:39:28 CST INFO  test.test.TestFZ - 负载测试
+2020-11-24 at 10:39:28 CST INFO  test.test.TestFZ - 负载测试
+2020-11-24 at 10:39:28 CST INFO  test.test.TestFZ - 负载测试
+2020-11-24 at 10:39:28 CST INFO  test.test.TestFZ - 负载测试
+2020-11-24 at 10:39:28 CST INFO  test.test.TestFZ - 负载测试

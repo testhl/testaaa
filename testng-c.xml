@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test测试" parallel="tests" thread-count="1">
+	<!-- <listeners> <listener class-name="testngT.RetryListener" /> <listener 
+		class-name="testngT.TestResultListener" /> </listeners> -->
+	<!-- Default suite -->
+	<test name="执行Class0">
+		<classes>
+			<!-- 执行套件只执行一次 -->
+			<class name="test.test.TestSuite" />
+		</classes>
+	</test>
+	<test name="执行Class">
+		<classes>
+			<!-- 每个test之前都执行一次 -->
+			<class name="test.test.TestTest" />
+			<class name="test.test.TestClass" />
+			<class name="test.test.TestMethods" />
+			<class name="test.test.TestTTTT" >
+			  <methods>
+			     <include name="testA" />
+			  </methods>
+			</class>	
+		</classes>
+	</test>
+	<test name="执行Class2">
+		<classes>
+			<!-- 每个test之前都执行一次 -->
+			<class name="test.test.TestTest" />
+			<class name="test.test.TestClass" />
+			<class name="test.test.TestTTTT" />
+		</classes>
+	</test>
+</suite>
