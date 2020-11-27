@@ -26,6 +26,7 @@ public class TestResultListener extends TestListenerAdapter {
 	public void onTestFailure(ITestResult tr) {
 		super.onTestFailure(tr);
 		ScreenS.screenShot();
+		ScreenS.getScreenshotF();
 		logger.info(tr.getName() + " Failure");
 	}
 
