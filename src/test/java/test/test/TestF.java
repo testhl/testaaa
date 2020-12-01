@@ -7,27 +7,20 @@ import com.test.common.MyAssert;
 import com.test.common.apiActions;
 import com.test.common.webDriver;
 
+import io.qameta.allure.Description;
+
 public class TestF {
 
-
+	@Description("Description注解：对百度进行截图")
 	@Test
 	public static void test() {
 	
 		webDriver.getWebdriver("chrome");
 		webDriver.getUrl("https://www.baidu.com/");
-		apiActions.click(By.xpath("//*[text()='hao123123']"));
+		apiActions.click(By.xpath("//*[text()='hao123']"));
 		MyAssert.assertTrue(false);
 		MyAssert.assertEquals("123", "adf");
 	}
-
-	@Test
-	public static void testWin() {
 	
-		webDriver.getWebdriver("chrome");
-		webDriver.getUrl("https://www.baidu.com/");
-		apiActions.click(By.xpath("//*[text()='hao123']"));
-		//切换到hao123的页签上
-		
-	}
 	
 }

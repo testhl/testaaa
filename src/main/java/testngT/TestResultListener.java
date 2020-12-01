@@ -25,8 +25,7 @@ public class TestResultListener extends TestListenerAdapter {
 	@Override
 	public void onTestFailure(ITestResult tr) {
 		super.onTestFailure(tr);
-		ScreenS.screenShot();
-		ScreenS.getScreenshotF();
+		FailScreenAllure.ScreenshotOnFailure();
 		logger.info(tr.getName() + " Failure");
 	}
 
